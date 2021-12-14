@@ -36,8 +36,9 @@ DataBase : MySql.
 
 #Hepler Tools
 
-run server on: localhost:7777
-set database in application.properties file
+Run server on: localhost:7777
+
+Set database in application.properties file
 
 #ScreenShots:
 
