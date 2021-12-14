@@ -34,6 +34,11 @@ DataBase : MySql.
 
 > payment(UPI, Credit/Debit Card, Cash On Delivery)
 
+#Hepler Tools
+
+run server on: localhost:7777
+set database in application.properties file
+
 #ScreenShots:
 
 SignUp:
