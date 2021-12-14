@@ -53,11 +53,12 @@ Login
 ![qrCode](https://user-images.githubusercontent.com/95918824/145953122-2a46118e-1347-4eee-b318-3e61a0c901fd.png)
 
 
+![adminLogin](https://user-images.githubusercontent.com/95918824/145953075-46a9f0ba-19c4-4cd9-84f3-2423451fdb60.png)
 
 ![admin](https://user-images.githubusercontent.com/95918824/145953068-0f3d13e6-224d-4b51-bdaf-5f742967b3ad.png)
-![adminDahboard](https://user-images.githubusercontent.com/95918824/145953074-083c1708-d5d9-4078-9400-7180b0783965.png)
-![adminLogin](https://user-images.githubusercontent.com/95918824/145953075-46a9f0ba-19c4-4cd9-84f3-2423451fdb60.png)
 ![ManageCategory](https://user-images.githubusercontent.com/95918824/145953104-7e9da625-78d1-463d-841b-c85c85cdeae7.png)
+
+![adminDahboard](https://user-images.githubusercontent.com/95918824/145953074-083c1708-d5d9-4078-9400-7180b0783965.png)
 
 
 
