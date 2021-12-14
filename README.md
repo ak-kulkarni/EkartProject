@@ -58,7 +58,7 @@ ContactUs:
 
 ![ContactUs](https://user-images.githubusercontent.com/95918824/145953101-71471d2f-03d4-4108-b643-09c58d41898f.png)
 
-Clicking on Back Button re-direct us to HomePage.
+Clicking on Back Button re-direct you to HomePage.
 
 ![thankYou](https://user-images.githubusercontent.com/95918824/145953131-14525a98-1578-4da9-975d-8891fe744775.png)
 
