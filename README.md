@@ -44,8 +44,9 @@ Login
 ![UserLogin](https://user-images.githubusercontent.com/95918824/145953009-933d693e-e635-4210-b19f-dcaa7663f105.png)
 
 HomePage
-![Home](https://user-images.githubusercontent.com/95918824/145954695-04e97ad1-e30c-43f9-ba21-cd08a1b4cf19.png)
 
+![home1](https://user-images.githubusercontent.com/95918824/145956318-755fc830-9090-4089-9569-2b1b8ac85262.png)
+-975d-8891fe744775.png)
 ContactUS
 
 ![ContactUs](https://user-images.githubusercontent.com/95918824/145953101-71471d2f-03d4-4108-b643-09c58d41898f.png)
