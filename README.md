@@ -35,7 +35,10 @@ DataBase : MySql.
 > payment(UPI, Credit/Debit Card, Cash On Delivery)
 
 #ScreenShots:
+SignUp
 
 ![SignUp](https://user-images.githubusercontent.com/95918824/145952997-0b7560f2-d616-4c6c-b9d1-9ec28aec9e52.png)
+
+Login
 ![UserLogin](https://user-images.githubusercontent.com/95918824/145953009-933d693e-e635-4210-b19f-dcaa7663f105.png)
 
