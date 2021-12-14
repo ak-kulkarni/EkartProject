@@ -1,38 +1,25 @@
 # ShopOnline
 ShopOnline is a ecommerce shopping site. SpringBoot + SpringSecurity + Thymeleaf is used to bbuild the application.
 
-
-    Features
-
-    Administrator :
-        Users management
-        Products management
-        Orders management
-        Recommendations management
-
-    User :
-        Registration
-        Shopping cart (for guest or logged user)
-        Order
-        Product recommendation
-        Product catalog
-
-
-    Download Eclipse
-    Install Tomcat
-    Set Tomcat path Reference
-    Download Project here
-    Import Project in Eclipse
-        File
-        Import
-        Existing projects into workspace
-        Finish
-    After importing right click on project and click run on apache tomcat server
-
-
 # Technologies
 BackEnd : BootStrap.
 
 FrontEnd : HTML, CSS, JavaScript.
 
 DataBase : MySql.
+
+#Features
+
+1.Admin:
+> Login
+> Users management(view, add and delete users)
+> Products management(view, add, update and delete products)
+> Category management(view, add, update and delete category)
+
+2.User:
+> New Registration(With google)
+> Login
+> View Products
+> Add product to cart and delete product from cart
+> CheckOut produtcs
+> payment(UPI, Credit/Debit Card, Cash On Delivery)
