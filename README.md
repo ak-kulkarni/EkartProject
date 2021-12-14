@@ -62,6 +62,8 @@ Login
 
 
 
+![addUser_Admin](https://user-images.githubusercontent.com/95918824/145954900-b1fe1e75-431f-4d67-ada3-e770993262fb.png)
+![viewpage](https://user-images.githubusercontent.com/95918824/145954915-4e89b9df-9f77-44e5-9d33-888cf2918b2c.png)
 
 
 
